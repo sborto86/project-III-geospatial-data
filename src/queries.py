@@ -39,7 +39,7 @@ def foursquare(location, condition, sort="DISTANCE"):
     Function to make queries in foursuare for a given condition
         Parameters: 
             location: tuple
-                cordinates latitude, logitude in decimal format
+                cordinates latitude, longitude in decimal format
             condition: int
                 Condition to asses the location
             sort: "string"
@@ -57,7 +57,8 @@ def foursquare(location, condition, sort="DISTANCE"):
     parameters = {
     "ll": ",".join(map(str,list(location))),
     "radius" : condition["max_dist"]*1000,
-    "sort": sort
+    "sort": sort,
+    "fields": "name,geocodes,categories,distance"
     }
     if condition["categories"]:
         parameters['categories'] =  ",".join(map(str,condition["categories"]))
@@ -65,6 +66,18 @@ def foursquare(location, condition, sort="DISTANCE"):
         parameters['query']= condition["query"]
     url = url + urllib.parse.urlencode(parameters)
     response = requests.get(url, headers=headers)
+    # parsing response and checking for errors
+    if response.status_code == 200:
+        response = response.json()['results']
+        # changing distance to Km
+        if response:
+            for e in response:
+                e["distance"] = e["distance"]/1000
+                e["latitude"] = e['geocodes']['main']['latitude']
+                e["longitude"] = e['geocodes']['main']['longitude']
+    else: 
+        print(f"{location}:  {response.status_code}")
+        response = None
     # Avoiding to exceede the quota of 50 queries per second
-    time.sleep(0.025) 
+    time.sleep(0.025)
     return response
