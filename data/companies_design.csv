@@ -1,0 +1,499 @@
+,name,country_code,city,latitude,longitude
+0,Digg,USA,San Francisco,37.764726,-122.394523
+1,Adobe Systems,USA,San Jose,37.320052,-121.877636
+2,Negonation,ESP,,40.463667,-3.74922
+3,GENWI,USA,Los Altos,33.8171,-111.9035
+4,BrightQube,USA,Carlsbad,33.09568,-117.244034
+5,Ponoko,USA,Oakland,37.8136086,-122.2966496
+6,Gilt Groupe,USA,New York,40.74727,-73.9800645
+7,AF83,FRA,PARIS,48.862063,2.35022
+8,Sitemasher,USA,Coral Gables,25.705057,-80.271378
+9,cScape,GBR,London,51.523676,-0.107843
+10,EnergyWeb Solutions,USA,Allentown,40.58471,-75.588974
+11,ProofHQ,GBR,London,51.5320478,-0.011154
+12,crowdSPRING,USA,Chicago,41.88583,-87.657354
+13,99designs,USA,San Francisco,37.7955307,-122.4005983
+14,99designs,AUS,Collingwood,-37.8026587,144.9868546
+15,99designs,DEU,Berlin,52.4986199,13.4469031
+16,Digital-Telepathy,USA,San Diego,32.736369,-117.160619
+17,Feng-GUI,ISR,Tel Aviv,32.0554,34.7595
+18,Osidosi Solutions,CAN,,56.130366,-106.346771
+19,KidZui,USA,San Diego,37.09024,-95.712891
+20,Mojizu,USA,Irvine,33.690354,-117.829435
+21,Carsonified,GBR,Bath,51.381732,-2.365654
+22,Sososher,GBR,London,51.500152,-0.126236
+23,RiDE Group,USA,Newark,39.677485,-75.753563
+24,Weardrobe,USA,Palo Alto,37.446662,-122.164925
+25,Brilliant2,USA,Los Angeles,34.043228,-118.46856
+26,PWG Design,USA,Mount Vernon,48.396978,-122.358748
+27,Shopflick,USA,Los Angeles,34.044939,-118.419067
+28,PixelCrayons,USA,New York,28.682042,77.087502
+29,Visible Theory,USA,Pasadena,34.145904,-118.129329
+30,Janmedia Interactive,USA,Falls Church,38.878596,-77.185057
+31,Cutcaster,USA,San Francisco,37.79851,-122.457454
+32,Mad Mimi,USA,Brooklyn,40.66509,-73.980306
+33,New York Designs,USA,New York,40.743264,-73.923427
+34,Tornado Design,USA,Phoenix,33.479692,-111.980855
+35,Inovatis,FRA,Lipsheim,48.491885,7.664067
+36,Tumblize,USA,,37.09024,-95.712891
+37,Autodesk,USA,San Rafael,38.0062745,-122.5315665
+38,SEO Workers,DEU,Augsburg,48.333702,10.90602
+39,JumpFrog,USA,Hazleton,40.977855,-76.029511
+40,deviantART,USA,Hollywood,34.101578,-118.33334
+41,Global Business Development Services,USA,Ashland,42.1827347,-122.7032759
+42,ExpertsYard,USA,Dallas,32.789215,-96.788551
+43,Acquity Group,USA,Chicago,41.881876,-87.639713
+44,Monkey in your Soul,CAN,Toronto,43.670233,-79.386755
+45,AdapDev IT Web Design,USA,Puyallup,47.156038,-122.357183
+46,Artifex Animation Studios,CAN,Montreal,45.539065,-73.609532
+47,Fabric Interactive,USA,Los Angeles,34.0748,-118.288536
+48,RMW Web Publishing,AUS,Bathurst,-33.41978,149.574258
+49,FliteHaus Creative Agency,USA,Oviedo,28.544123,-81.366414
+50,zebraspot design,CAN,Guelph,43.540164,-80.261776
+51,Majides,JPN,,36.204824,138.252924
+52,ArcStone Technologies,USA,Minneapolis,44.962697,-93.279911
+53,Mobile Rider,USA,Salt Lake City,40.739109,-111.887733
+54,Wilogo,FRA,Saint Chamond,45.509034,4.580496
+55,Synthetic Entertainment,USA,Manhattan,39.1967,-96.5956
+56,939 Design,GBR,East Yorkshire,53.725204,-0.439392
+57,Zulu Creative,GBR,West Midlands,52.588545,-1.830892
+58,Making Sense,USA,San Antonio,29.516352,-98.43676
+59,Making Sense,ARG,Buenos Aires,-34.5892808,-58.43297
+60,Making Sense,ARG,Mar del Plata,-38.0060917,-57.5582444
+61,MakeFive,CAN,"Vancouver, BC",49.2839417,-123.1101383
+62,Louis Vuitton,FRA,Paris,48.871976,2.30069
+63,Addesso,USA,Drexel Hill,39.947465,-75.288083
+64,Ensign Technologies,USA,Springfield,37.207262,-93.302443
+65,Rui Peixeiro,PRT,CovilhÃ£,40.29416,-7.469215
+66,Talent Gurus,USA,Houston,30.050837,-95.230789
+67,Tangivel,PRT,Coimbra,40.19266,-8.418228
+68,Union Street Media,USA,Burlington,44.468055,-73.207641
+69,Catalyst Resources,USA,San Mateo,37.552137,-122.314156
+70,Catalyst Resources,USA,Washington,40.75604,-73.986941
+71,ShopMyCloset,USA,,40.75604,-73.986941
+72,vunite media,USA,Salt Lake City,40.766429,-111.858952
+73,MEDDIA,ESP,Barcelona,41.4018094,2.1815648
+74,Meetweb,ITA,Napoli,40.838338,14.235889
+75,Anubavam,USA,San Antonio,29.743772,-98.692465
+76,Dot Com Infoway France,IND,Chennai,13.11352,80.152135
+77,IDEO,USA,Palo Alto,37.441971,-122.161151
+78,IDEO,USA,Cambridge,42.363936,-71.101238
+79,IDEO,GBR,London,51.522272,-0.109804
+80,IDEO,USA,Evanston,42.046475,-87.680813
+81,IDEO,DEU,Munich,48.136592,11.580102
+82,IDEO,USA,New York,40.721026,-74.001614
+83,Ammunition Group,ITA,Padova,45.409568,11.876589
+84,Spoiltchild,IRL,Drogheda,40.19036,-74.840241
+85,Fixie,USA,Seattle,47.6042792,-122.3374372
+86,Bizcard,USA,Scottsdale,33.5093,-111.8985
+87,Gorenje,HRV,Zagreb,45.793899,15.961251
+88,Gorenje,FRA,Levallois-Perret,48.896914,2.288335
+89,Continuum,USA,West Newton,42.349239,-71.223834
+90,Continuum,ITA,Milano,45.447302,9.215569
+91,Aldor Solutions,USA,Plano,33.010381,-96.705127
+92,Biden PC,USA,Pomona,34.109193,-117.755169
+93,Wharton Website Design and Marketing,USA,Mountain Home,36.338746,-92.363837
+94,Ocean Online Group,USA,Chicago,41.886088,-87.624983
+95,Coomer Media Group,USA,Richmond,37.747342,-84.294064
+96,WebMedic,NLD,Delft,52.004819,4.35927
+97,Minted,USA,San Francisco,37.797435,-122.403175
+98,Media Lantern,USA,New London,41.354796,-72.097348
+99,I-COM,GBR,Manchester,53.385028,-2.354238
+100,Qovax,USA,Agoura Hills,34.146149,-118.761265
+101,StyleCard,USA,New York,40.738137,-74.0058
+102,Handcrafted,USA,Houston,29.983076,-95.5627227
+103,Relativity,USA,N. Attleboro,41.957177,-71.3607
+104,XFRIDAY,IND,Faridabad,28.382219,77.303093
+105,XFRIDAY,IND,Faridabad,28.382219,77.303093
+106,XFRIDAY,IND,Mohali,30.703846,76.718667
+107,Mightybytes,USA,Chicago,41.977257,-87.668365
+108,EffectiveUI,USA,Denver,39.755152,-104.990968
+109,EffectiveUI,USA,Rochester,43.158821,-77.585297
+110,Cbondesign,FRA,Montreuil,48.8580774,2.4316556
+111,Goldstein Media,USA,Bensalem,40.10115,-74.941677
+112,Goldstein Media,USA,Philadelphia,40.1108242,-75.0245215
+113,Amnesia Group,AUS,East Sydney,-33.876658,151.213362
+114,Virtually Canadian,CAN,Vancouver,49.277711,-123.113775
+115,Kinoma,USA,Palo Alto,37.43938,-122.158804
+116,Magic Logix,USA,Carrollton,32.976452,-96.843958
+117,The Tin,GBR,London,51.52129,-0.10978
+118,CompuBase Internet Solutions,NLD,Mill,51.67937,5.782043
+119,Squiz UK,GBR,London,51.521603,-0.083444
+120,e-Man,GBR,"London,",51.517712,-0.141022
+121,Design by Humans,USA,Chico,39.7324184,-121.8211856
+122,Digital Stampede,USA,Chicago,41.972002,-87.703656
+123,D2 Creative,USA,Somerset,40.531055,-74.519047
+124,Snaptortoise,USA,Portland,45.516621,-122.63457
+125,HelpMeTy,USA,New Brighton,45.045772,-93.190885
+126,Ecolect,USA,San Francisco,37.776769,-122.410111
+127,Ecolect,USA,Providence,41.817973,-71.441418
+128,Insyde,NLD,Delft,52.0112727,4.3532861
+129,FashionFreax GmbH,DEU,WÃ¤chtersbach,52.537588,13.37402
+130,Pond5,USA,Brooklyn,40.7032884,-73.9878525
+131,Pond5,USA,New York,40.7280992,-73.9933841
+132,Synergie Media,NLD,Rotterdam,51.960189,4.474856
+133,dimension5 labs,USA,Santa Fe,35.6746751,-105.9484344
+134,Mobclix,USA,Palo Alto,37.448598,-122.158497
+135,Popego,USA,San Francisco,37.778687,-122.421242
+136,HammerKit,FIN,Helsinki,60.16441,24.910863
+137,IncSpring,USA,San Antonio,29.520005,-98.488402
+138,GreenLogic India Tecnologies,IND,Bangalore,12.9093426,77.5833979
+139,Wonsys,ITA,Milan,45.468399,9.214761
+140,Wonsys,ITA,Bergamo,45.692026,9.663717
+141,Milobox,USA,San Francisco,37.792979,-122.421242
+142,Davai Design,CAN,Montreal,45.496141,-73.63222
+143,Intelligenes,PAK,Karachi,24.9068278,67.0806218
+144,SnapPages,USA,Austin,30.443493,-97.77512
+145,Cinergix,AUS,Melbourne,-37.793125,144.971266
+146,GolterGraphix,USA,Rochester,43.3104064,-70.9903438
+147,Spiral Shell Web LLC,USA,East Hampton,41.595196,-72.51949
+148,DESIGN about TOWN,USA,SF,37.797909,-122.403312
+149,HelpMeTy,USA,New Brighton,45.045772,-93.190885
+150,Ecolect,USA,San Francisco,37.776769,-122.410111
+151,Ecolect,USA,Providence,41.817973,-71.441418
+152,Insyde,NLD,Delft,52.0112727,4.3532861
+153,FashionFreax GmbH,DEU,WÃ¤chtersbach,52.537588,13.37402
+154,Pond5,USA,Brooklyn,40.7032884,-73.9878525
+155,Pond5,USA,New York,40.7280992,-73.9933841
+156,Synergie Media,NLD,Rotterdam,51.960189,4.474856
+157,dimension5 labs,USA,Santa Fe,35.6746751,-105.9484344
+158,Mobclix,USA,Palo Alto,37.448598,-122.158497
+159,Popego,USA,San Francisco,37.778687,-122.421242
+160,HammerKit,FIN,Helsinki,60.16441,24.910863
+161,IncSpring,USA,San Antonio,29.520005,-98.488402
+162,GreenLogic India Tecnologies,IND,Bangalore,12.9093426,77.5833979
+163,Wonsys,ITA,Milan,45.468399,9.214761
+164,Wonsys,ITA,Bergamo,45.692026,9.663717
+165,Milobox,USA,San Francisco,37.792979,-122.421242
+166,Davai Design,CAN,Montreal,45.496141,-73.63222
+167,Intelligenes,PAK,Karachi,24.9068278,67.0806218
+168,SnapPages,USA,Austin,30.443493,-97.77512
+169,Cinergix,AUS,Melbourne,-37.793125,144.971266
+170,GolterGraphix,USA,Rochester,43.3104064,-70.9903438
+171,Spiral Shell Web LLC,USA,East Hampton,41.595196,-72.51949
+172,DESIGN about TOWN,USA,SF,37.797909,-122.403312
+173,Lounge|Press,USA,Boynton Beach,26.539706,-80.108189
+174,CPC Computer Consultants,USA,Miami,25.761296,-80.191258
+175,Alwayswater,USA,Hoboken,40.747005,-74.039011
+176,McIntyre Media,USA,Cleveland,41.390918,-81.554755
+177,Glued Network,USA,St. Louis,38.627522,-90.19841
+178,Devnet,AUS,BRISBANE,-27.458989,153.043228
+179,hornet,AUS,Balmain,-33.86322,151.179693
+180,302designs,USA,Austin,30.264491,-97.728453
+181,nodes,USA,Norman,35.218428,-97.464788
+182,NOTCOT,USA,Los Angeles,34.052187,-118.243425
+183,psd2css Online,USA,Encinitas,33.052083,-117.279368
+184,Vinfotech,IND,Indore,22.72939,75.883168
+185,The Factory Interactive,USA,Miami,25.825503,-80.187805
+186,Medianomic,USA,Atlanta,33.764877,-84.397325
+187,Content Kings,USA,Santa Monica,34.015386,-118.495792
+188,Syria Nobles,USA,Fontana,34.0739586,-117.4400156
+189,3K Interactive,USA,San Diego,32.774948,-117.143917
+190,Aster Technologies,USA,Thousand Oaks,34.1692256,-118.836014
+191,Denook,USA,Miami,25.733027,-80.432061
+192,HyperTEK Corporation,USA,Troy,42.56349,-83.136514
+193,Box UK,GBR,London,51.5107737,-0.1392447
+194,Art2Digital InterMedia,DEU,KÃ¶nigshofen,49.5677645,9.7068455
+195,ThoseGeeks,USA,Abingdon,36.7084,-81.9688
+196,Capstone Labs,USA,St. Augustine,29.867865,-81.32415
+197,Fabian Rossano Studio,USA,New York,40.740371,-74.004777
+198,Xtreme Widgets,USA,Los Angeles,33.988687,-118.439532
+199,TVGla,USA,Los Angeles,33.988687,-118.439532
+200,Vesess,USA,Las Vegas,36.18854,-115.214015
+201,Olivos by Design,ESP,Malaga,36.492548,-4.72689
+202,McRaaN Systems,USA,Herndon,38.953356,-77.424865
+203,Pumant,GBR,Birmingham,52.482932,-1.893621
+204,Pumant,ARG,Buenos Aires,-34.611781,-58.417309
+205,InoPrints,USA,Chicago,41.975543,-87.715498
+206,BAM Studios,USA,Chicago,41.893622,-87.627423
+207,ApogeeInvent,USA,American Falls,43.825874,-111.780958
+208,Geonet Enterprses,KEN,Nairobi,0.097627,35.500756
+209,WebMetro,USA,San Dimas,34.069903,-117.848089
+210,Neoganda,USA,West Hollywood,34.076404,-118.375053
+211,Twin Pines,SWE,BorlÃ¤nge,60.485605,15.436302
+212,Twin Pines,SWE,Stockholm,59.332788,18.064488
+213,India Designers,IND,Noida (UP),28.5846875,77.3159296
+214,WebpageFX,USA,Carlisle,40.207431,-77.199558
+215,X-PRIME,FRA,Toulouse,43.561452,1.425107
+216,NFi Studios,USA,Orlando,28.542896,-81.378805
+217,Glow New Media,GBR,Liverpool,53.4107766,-2.9778383
+218,Aghreni Technologies,IND,Bangalore,12.9561278,77.5922642
+219,Aghreni Technologies,USA,New York,40.744549,-73.988071
+220,Invictus Technology,GBR,Birmingham,52.3984972,-1.9264665
+221,I-Cubed Web Design,USA,Boiling Springs,40.10971,-77.132182
+222,A Beautiful Site,USA,dallas,32.781078,-96.797111
+223,A Beautiful Site,USA,seattle,47.620973,-122.347276
+224,Beehive Media,USA,Hopkinton,42.6274692,-71.3629705
+225,32bytes,IND,Kolkata,22.5463155,88.3539981
+226,Aligned Global,USA,Miami,25.769174,-80.331681
+227,Devkinetic Designs,USA,Melrose,42.45434,-71.066148
+228,Nullvariable Web Consulting,USA,Greenville,34.8678238,-82.3722295
+229,SpectrumDNA,USA,Park City,40.657786,-111.506667
+230,SpectrumDNA,USA,Park City,40.6463,-111.4972
+231,Active Online,IRL,Dublin,53.3498195,-6.2769121
+232,Spork Marketing,USA,Littleton,39.568519,-105.0825619
+233,Computing Data,GBR,Grimsargh Preston,53.8070285,-2.6172859
+234,Speedchecker,GBR,Bristol,51.4749263,-2.6136797
+235,4am Design and Technology Labs,IND,Bangalore,13.0774091,77.5886142
+236,itive,FIN,Kauhajoki,62.4179735,22.173893
+237,Extendi,ITA,Firenze,43.7688179,11.1052118
+238,utopia 365,GBR,Romsey,50.9991134,-1.4750789
+239,Which Web Design Company,GBR,London,51.5001524,-0.1262362
+240,Random Computers,USA,Spokane,47.6572277,-117.4180439
+241,Random Computers,USA,Seattle,47.611215,-122.3408776
+242,Weatherwood,USA,Minneapolis,44.962551,-93.313368
+243,Editor,SVN,Solkan,45.9689988,13.6409647
+244,Sprout - Growing Ideas,USA,Nashville,36.139428,-86.794246
+245,Eat Media,USA,Hastings-on-Hudson,27.4964623,-82.5734043
+246,Ramp Technology Group,USA,Bellevue,47.61251,-122.1962236
+247,Azuro,USA,Santa Clara,37.406217,-121.976473
+248,Brightegg,USA,Tolland,41.856671,-72.3448043
+249,Foundry Interactive,USA,Seattle,47.6606589,-122.344595
+250,"Expert Online Services, LLC",USA,Palm Beach Gardens,26.852044,-80.145206
+251,Digital Base,BEL,Leuven,50.867206,4.700737
+252,Elevate Visual Communications,USA,Juniata,40.599303,-98.4588465
+253,Elevate Visual Communications,USA,Muscle Shoals,34.733994,-87.6306144
+254,Produxs,USA,Seattle,47.5753035,-122.3342499
+255,Novalsys,USA,New York,40.7283696,-73.9923918
+256,What Cheer,USA,Omaha,41.265831,-95.9336828
+257,Summitsoft Corporation,USA,Omaha,41.3207132,-96.0635225
+258,The Graham Agency,USA,Santa Cruz,36.9751032,-122.0253784
+259,Good Work Marketing And Design,USA,New Orleans,29.9208049,-90.0864572
+260,Solavista,USA,Scottsdale,33.6171763,-111.8714978
+261,dp dialogue,AUS,Brisbane,-27.455465,153.035629
+262,Slides2407!,USA,Valley Cottage,41.130024,-73.928795
+263,Propeller Media Works,USA,Burlington,44.455806,-73.217971
+264,Radar Maker,IRL,Dublin,53.3256436,-6.2737316
+265,Sencia,CAN,Thunder Bay,48.4317715,-89.2225515
+266,Arc90,USA,New York City,40.7534549,-73.9724886
+267,Valuebound,USA,Plainfield,41.612901,-88.231265
+268,Valuebound,USA,Fortlee,40.845317,-73.980468
+269,Valuebound,GBR,Cardiff,51.5025565,-3.1932605
+270,Test of Time Design,USA,Des Moines,41.615468,-93.564954
+271,ITCN Web Development,USA,Morristown,40.798178,-74.486759
+272,e-CBD,AUS,Southport,-27.980414,153.411179
+273,Paden Noble Consulting,USA,Newark,40.742416,-74.182118
+274,Soul Oyster Web Studios,USA,Portsmouth,43.0756094,-70.7606358
+275,Miva Merchant,USA,San Diego,32.851846,-117.18602
+276,MetaSpring,USA,Ann Arbor,42.2932626,-83.8897472
+277,Cirv,USA,Vancouver,45.630718,-122.682791
+278,Generous Marketing,USA,New Braunfels,29.7256556,-98.0815325
+279,thoughtbot,USA,Boston,42.356161,-71.061649
+280,thoughtbot,SWE,Stockholm,59.3335122,18.0816712
+281,thoughtbot,USA,Boulder,40.014498,-105.278502
+282,thoughtbot,USA,Philadelphia,39.952335,-75.163789
+283,MPC Studios,USA,Harlingen,26.1906343,-97.6932804
+284,5th Finger,USA,San Francisco,37.7900992,-122.4021988
+285,Digital Face,GBR,Edinburgh,52.677577,0.1600278
+286,NextG Networks,USA,Milpitas,37.3968078,-121.9113633
+287,Groove Commerce,USA,Baltimore,39.271785,-76.611379
+288,Make It Rain,GBR,London,51.4626,-0.139082
+289,8 Points,FRA,Paris,48.8566667,2.3509871
+290,KISS Computing,IRL,Dublin 16,53.2740601,-6.2437821
+291,West-Age Web Services,USA,Vista,33.1658122,-117.24652
+292,Eastmedia,USA,New York,40.752409,-73.988676
+293,Pixel Spills,USA,Jackson,43.479618,-110.762347
+294,Daddy Design,USA,Miami,25.873778,-80.168399
+295,AdVerit,ARG,Martinez,-34.4725563,-58.5128212
+296,SHpartners,BEL,Gent,51.0198642,3.6820756
+297,CreationFlow,ARG,Ciudad de Buenos Aires,-34.6028583,-58.4339539
+298,Scandia Consulting,USA,Brooklyn,41.7913964,-71.9157815
+299,Extreme Enterprises,USA,St Petersburg,27.770221,-82.735899
+300,SoftFacade,RUS,St. Petersburg,59.9448495,30.265156
+301,Wiretree,USA,Atlanta,33.754487,-84.389663
+302,Rhxo Technology Group,USA,New York,40.762897,-73.974714
+303,NetAsturias Internet,ESP,Infiesto (Asturias),43.3459015,-5.36175
+304,AsturTrade,USA,Charlotte,35.088188,-80.8686385
+305,UpClick Marketing,USA,Leesburg,39.108094,-77.552593
+306,Ceylon Solutions,USA,Denver,39.62574,-105.092372
+307,RocketGenius,USA,virginia beach,36.8598,-75.9812
+308,Blueprint Design Studio,USA,Chicago,41.886511,-87.626777
+309,Period Three,USA,Columbia,34.001767,-81.038477
+310,Speedshape,USA,Bingham Farms,42.548008,-83.214753
+311,Escapio,DEU,Berlin,52.4943074,13.434474
+312,Sysgen Media,USA,Northport,40.899937,-73.347807
+313,Dean Marshall Consultancy,GBR,Lancaster,54.0648711,-2.7993768
+314,Websiteprojects,BEL,Brussels,50.8388386,4.3659553
+315,ikywim creative,USA,Winter Park,28.621704,-81.290729
+316,Pixelita Designs,USA,Houston,29.718868,-95.313311
+317,iplotz,USA,Stephens City,39.0832204,-78.218254
+318,Enough Pepper,PRT,Lisboa,38.7509471,-9.1427493
+319,Digital Bloom,DEU,Munich,48.1210729,11.5853709
+320,Digital Bloom,USA,New York,40.718177,-74.004602
+321,doejo,USA,Chicago,41.951198,-87.649563
+322,SpaceClaim,USA,Concord,42.462373,-71.387308
+323,Carrier IQ,USA,Mountain View,37.3955775,-122.0833286
+324,Search Antigua,ATG,St. John's,17.1229659,-61.842615
+325,Vivid Web Graphics,USA,Carlsbad,33.104772,-117.257003
+326,Code Authority Custom Software,USA,Frisco,33.1119736,-96.8157933
+327,Bywave,AUS,Surry Hills,-33.871118,150.8705
+328,Phu Concepts,USA,Rochester,43.1620203,-77.610583
+329,Centillion,HRV,Split,43.5141923,16.4389264
+330,vexcom,USA,Roswell,34.016961,-84.329081
+331,Spoiled Milk,DNK,Copenhagen,55.6886102,12.5587476
+332,Showtime Studios,GBR,Birmingham,52.4869442,-1.9023414
+333,ProRattaFactor,USA,Hawthorne,40.95795,-74.161753
+334,Crea,URY,Montevideo,-34.9060125,-56.1932857
+335,Bonefarm Creations,EST,Tallinn,59.4354282,24.7438773
+336,Core Factor,PRT,Lisbon,38.7445718,-9.1460977
+337,Louisville Web Group,USA,Louisville,38.337337,-85.474719
+338,Lamingo,USA,San Jose,37.3108702,-121.950142
+339,Shriv Commedia Solutions Pvt Ltd,IND,Noida,28.5865869,77.3360319
+340,Unique Blog Designs,USA,Scottsdale,33.6220214,-111.8750635
+341,BooFly,IRL,Monaghan,54.1239649,-6.7349233
+342,CryptoNet,BEL,Holsbeek,50.915419,4.7438274
+343,StickyPages,CAN,Kelowna,49.8900432,-119.4583914
+344,MindSmack,USA,New York,40.758492,-73.989987
+345,the Vital Path Innovations,CAN,Oakville,43.4554329,-79.6848067
+346,We Are Business,USA,Birmingham,33.4191513,-86.6960902
+347,Sand Software Solutions,USA,Madison,34.114049,-84.166613
+348,Sand Software Solutions,IND,Visakhapatnam,44.798742,-95.706218
+349,Transcensus,USA,Orem,40.311946,-111.6850207
+350,MAG STUDIOS,IND,Delhi,28.635308,77.22496
+351,LSF Design,USA,Westford,42.626479,-71.465011
+352,Pivotal Concept,USA,Springdale,36.2244458,-94.1483938
+353,Easy! Designs,USA,Chattanooga,35.1503998,-85.4169211
+354,Kalexo,USA,Burlingame,37.589692,-122.340723
+355,MediaRich,USA,San Antonio,29.414897,-98.48972
+356,Nubesis,ESP,Paterna (Valencia),39.5481824,-0.4614394
+357,dsignz media,IND,"Kodambakkam, Chennai",13.0445424,80.2156162
+358,Durango Web Pro,USA,Durango,37.2735887,-107.8761223
+359,Netboot,ROM,Bucharest,44.4479237,26.097879
+360,Mindfly Web Studio,USA,Bellingham,48.7505449,-122.4803774
+361,Brady Mills Graphics,USA,Nashville,36.1749152,-86.7889469
+362,Ifline Technologies,IND,chennai,13.0293465,80.2122271
+363,Hirshorn Zuckerman Design Group,USA,New York,40.756054,-73.986951
+364,Hirshorn Zuckerman Design Group,USA,Rockville,39.083916,-77.156823
+365,eCommerce Positioning,USA,everett,47.931263,-122.255136
+366,Think BIG Sites,USA,Melville,40.732076,-73.424968
+367,Masterpiece,GBR,London,51.5219131,-0.0833747
+368,BUGBYTE,NLD,Breda,51.5864572,4.7787001
+369,Blackwave Creative,USA,Hoboken,40.8491136,-74.4197213
+370,Papp-Art,DEU,DÃ¼sseldorf,51.233068,6.7190874
+371,Scopial Fashions,IND,Thane West,19.2025218,72.9637728
+372,deBruyn Design + Marketing,CAN,,49.034602,-122.832125
+373,Axle IT,AUS,Queensland,-27.471324,153.004781
+374,Say Design,USA,Aliso Viejo,33.579204,-117.7293383
+375,Boring,GBR,London,51.5183725,-0.0740678
+376,Verve Creative,USA,West Newton,42.34975,-71.228865
+377,Site Mafia Interactive,CAN,Toronto,43.6694834,-79.389325
+378,CMS Critic,CAN,Edmonton,53.540941,-113.493698
+379,ProtoShare,USA,Portland,45.519475,-122.675255
+380,Pleth,USA,Batesville,35.7676229,-91.6304572
+381,Maga Design Group,USA,"Washington, DC",38.921547,-77.041976
+382,Ashe Media Holdings,USA,,33.884218,-84.338429
+383,TIS India,USA,Las Vegas,36.215329,-115.23662
+384,Epsilon Concepts,USA,Los Angeles,34.051508,-118.262233
+385,OE Design,AUS,Burleigh Heads,-28.085945,153.390945
+386,Exfront Technologies,USA,Dallas,32.864024,-96.662332
+387,Earthenhive Architects,IND,Bangalore,13.014823,77.6503104
+388,MetaLab,CAN,"Victoria, British Columbia",48.4096766,-123.3476874
+389,Matt Salik Freelance Design,CAN,Victoria BC,48.4275,-123.367259
+390,Think Orange,PRT,Lisboa,38.703497,-9.178734
+391,Synonym,USA,Boulder,41.310557,-105.585771
+392,Synonym,USA,Chicago,41.879535,-87.624333
+393,Wezz Interactive,NLD,Amsterdam,52.3692971,4.9339596
+394,RegalBuilt,USA,San Jose,37.2471229,-121.8277925
+395,Mindgruve,USA,San Diego,32.7160497,-117.1574252
+396,Mindgruve,USA,Irvine,33.670185,-117.856584
+397,Embitel,DEU,Stuttgart,48.8203534,9.2031939
+398,Handbags4Hunger,USA,Oshkosh,44.022448,-88.546142
+399,Cat on the Couch Productions,USA,Essex Junction,44.494617,-73.098396
+400,Imagination Plus,CAN,Hamilton,43.2546154,-79.8685313
+401,Melinta,USA,New Haven,41.305179,-72.93117
+402,Lakeshore Branding,USA,Green Cove Springs,41.880356,-87.630144
+403,Your Design Online,USA,ATLANTA,33.9349004,-84.3378955
+404,Tilted Pixel,CAN,Waterloo,43.4796149,-80.5212876
+405,WebFeathers,USA,Palo Cedro,40.5433263,-122.2406391
+406,Nosco,HRV,Zagreb,45.8708777,16.003871
+407,Webteilchen,DEU,Berlin,52.5296736,13.6281888
+408,Marmalade on Toast,GBR,London,51.5001524,-0.1262362
+409,Hayen Company,USA,Columbia,34.019114,-81.004871
+410,Bamboudesign,USA,San Francisco,37.775087,-122.415199
+411,Centralis,USA,Evanston,42.0644028,-87.7135479
+412,Red Engineering Design,GBR,London,51.5234209,-0.1398614
+413,Apex Software,USA,Lawrenceville,33.991787,-84.068835
+414,HariOmTechnologies,IND,Bhopal,23.2771102,77.4589032
+415,PERCUSSA,BEL,Mere,50.9228106,3.9712962
+416,Keylex Internet Solutions,USA,Teaneck,40.902116,-74.004226
+417,Ahlera,URY,Montevideo,-34.8910198,-56.1702161
+418,BigSpire Technologies,IND,,13.060416,80.249634
+419,Huge,USA,Brooklyn,40.7028474,-73.9906813
+420,Huge,USA,Los Angeles,34.167304,-118.373614
+421,Huge,GBR,London,51.4920878,-0.1652217
+422,Mind Taffy Design,USA,Santa Barbara,34.6960023,-120.3934165
+423,Netbiscuits,DEU,Kaiserslautern,49.4559965,7.8068522
+424,Netbiscuits,GBR,London,51.513248,-0.1547377
+425,Netbiscuits,USA,San Francisco,37.7550372,-122.4264417
+426,inQbation,USA,Herndon,38.9552797,-77.3381855
+427,inQbation,COL,Cali,3.4233155,-76.5245361
+428,Electronic Ink,USA,Philadelphia,39.951101,-75.163762
+429,ExteNet Systems,USA,Lisle,41.8089007,-88.1132884
+430,NetroStar,USA,Miami,25.7922516,-80.1892904
+431,NetroStar,USA,Miami,25.7922516,-80.1892904
+432,Graticle,USA,Ellensburg,45.7968414,-122.6931439
+433,bwired,AUS,Melbourne,-37.857674,145.037319
+434,Sagacious Softwares,IND,Gurgaon,35.201649,-106.607947
+435,Monderer Design,USA,Cambridge,42.3912548,-71.1228802
+436,Emmaus Designs,USA,Lake Wales,27.927025,-81.607259
+437,Magnifi Online,USA,Littleton,32.7845701,-117.1283599
+438,NecesCity,HKG,Hong Kong,22.334148,114.150564
+439,Fan,ARG,Mar del Plata,-37.9924155,-57.5538238
+440,PLAVEB Corporation,USA,Burbank,34.1676412,-118.3227223
+441,Design215,USA,Fort Lauderdale,26.165709,-80.1007858
+442,CxT Group,USA,Bloomfield Hills,42.605626,-83.319932
+443,CxT Group,USA,San Diego,32.754305,-117.079074
+444,design presentation,USA,Princeton,40.364045,-74.651262
+445,MARS media,NLD,Amsterdam,52.2986042,4.9549211
+446,Pro-Technologies,PAK,Islamabad,33.6806501,73.000806
+447,Pigmata Media,PHL,Makati,14.5359294,121.0211311
+448,Selteco,USA,Schaumburg,42.062816,-88.034017
+449,Selteco,CAN,Ajax Ontario,43.8714181,-79.0342794
+450,Selteco,POL,Warsaw,52.1712424,21.0062704
+451,ParableSoft,USA,Tampa,27.952334,-82.4992
+452,pingVision,USA,Boulder,40.0146417,-105.2387032
+453,Primediart,IND,Kolkata,22.5985389,88.40286
+454,Don't Blink Design,USA,Santa Monica,34.019122,-118.492268
+455,Don't Blink Design,USA,San Diego,32.7194538,-117.1673934
+456,River Horse,GBR,Wollaton (Nottingham),52.955042,-1.217092
+457,Davyin Internet Solutions,CHN,Shanghai,31.2366983,121.4137257
+458,Covet Shop,USA,New York,40.72874,-73.989324
+459,Oncodesign,FRA,Dijon Cedex,47.3161718,5.0754071
+460,Enhanced Automation,USA,Menomonee Falls,43.113262,-88.080445
+461,BitMethod,USA,Des Moines,41.581232,-93.621998
+462,Adword Success,GBR,Greater London,51.5807353,0.0499962
+463,Synesis IT,USA,New York,40.748873,-73.987106
+464,Above the Fold,USA,Cambridge,42.357489,-71.055591
+465,Copybook Solutions,GBR,Tiverton,50.90609,-3.4810902
+466,Copybook Solutions,GBR,Exeter,50.721453,-3.498046
+467,Ramp Up Tech,USA,New York,40.746514,-73.993035
+468,FLYPEANUT Studio,KOR,Seoul,37.56862,127.0263662
+469,ActiveBox,IDN,Bandung,-6.903247,107.69033
+470,NetLogic Microsystems,USA,Mountain View,37.420408,-122.088466
+471,Novelty Systems,USA,Gainesville,29.5950852,-82.4102628
+472,Novelty Systems,USA,Naples,26.3926,-81.5555
+473,Max Q Designs,USA,Melbourne,28.2265028,-80.678264
+474,Fresh Echo Interactive,USA,San Diego,32.801402,-117.236558
+475,Ray Websmith,USA,Crystal Lake,42.2796339,-88.3339768
+476,Posh Eyes,GBR,Oxford,51.7300998,-1.2219376
+477,Baobaz,FRA,Paris,48.8659957,2.351824
+478,Multiso Multimedia Solutions,SVN,Celje,46.2347396,15.2591055
+479,Steppy Frog Design Studio,IND,Chennai,13.1115592,80.226749
+480,iBizLog,USA,Las Vegas,36.0122687,-115.4977708
+481,Waveative,USA,Houston,29.7726138,-95.514493
+482,IDT,USA,San Jose,37.25656,-121.788353
+483,Altobeam,CHN,Beijing,55.902143,-3.208711
+484,Coskata,USA,Warrenville,41.8035954,-88.159371
+485,SpringSoft,USA,San Jose,37.37027,-121.924053
+486,The Graphic Design School,USA,LOS ANGELES,34.0878254,-118.3794929
+487,MEAS,USA,Hampton,37.063722,-76.407042
+488,MentorMate,USA,Minneapolis,44.948786,-93.161038
+489,Collective Core,USA,Smyrna,33.8837,-84.5144
+490,Design Chemical,THA,Bangkok,13.764605,100.5642201
+491,Top Rated Website Designers,USA,Carlsbad,33.1412124,-117.3205123
+492,Top Rated Website Designers,USA,Los Angeles,33.9933257,-118.3987842
+493,Top Rated Website Designers,USA,San Diego,33.1412124,-117.3205123
+494,United On-Line,GRC,"Galatsi, Attiki",38.0088251,23.759331
+495,ITERNOVA,ESP,Teruel,40.3401332,-1.1059614
+496,ITERNOVA,ESP,Zaragoza,41.6698776,-0.8944867
+497,Atlantic BT,USA,Raleigh,35.8969064,-78.6806784
