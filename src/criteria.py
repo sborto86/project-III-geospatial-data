@@ -126,11 +126,11 @@ def score_calculator(condition, num, min_dist):
     # calculating the maximum score 
     max_score = 0
     for c in conditions:
-        max_score += c["people"]
+        max_score += conditions[c]["people"]
     max_score = max_score * 2
     # calculating score of a given condition
     if num > 0:
-        distance = 1 - (conditions[condition]["max_dist"]/ min_dist)
+        distance = 1 - (min_dist/conditions[condition]["max_dist"])
         if num >= conditions[condition]['max_num']:
             number = 1
         else:

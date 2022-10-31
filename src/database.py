@@ -210,3 +210,5 @@ def offices_list (save=True, coll="lab"):
     if save:
         offices_df.to_csv('./data/offices.csv')
     return offices_df
+
+    

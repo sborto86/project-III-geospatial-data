@@ -3,6 +3,7 @@ from src.queries import foursquare
 if "pd" not in dir():
     import pandas as pd
 from geopy.distance import geodesic
+from tqdm import tqdm
 
 def get_close_places (df, df_com, max_distance):
     '''
@@ -15,15 +16,24 @@ def get_close_places (df, df_com, max_distance):
         max_distance: int
             Maximum distance in Km to interesect the 2 dataframes 
     '''
+    # generating vectors for faster performance
+    lat1 = df["latitude"]
+    lat2 = df_com['latitude']
+    lon1 = df["longitude"]
+    lon2 = df_com['longitude']
+    nam1 = df["name"]
+    nam2 = df_com['name']
+    dic = df_com.to_dict('records')
+    # iterating vectors by index
     new_col = []
-    for row in df.itertuples():
+    for index in tqdm(range(len(df))):
         closeplaces=[]
-        position1 = (row.latitude, row.longitude)
-        for e in df_com.to_dict('records'):
-            position2 = (e['latitude'], e['longitude'])
+        position1 = (lat1[index], lon1[index])
+        for i in range(len(df_com)):
+            position2 = (lat2[i], lon2[i])
             distance = geodesic(position1, position2).km
-            if distance > 0 and distance < max_distance or distance == 0 and row.name != e['name']:
-                place = e
+            if distance > 0 and distance < max_distance or distance == 0 and nam1[index] != nam2[i]:
+                place = dic[i]
                 place['distance']= distance
                 closeplaces.append(place)
         places = sorted(closeplaces, key=lambda x: x['distance'])
@@ -74,4 +84,6 @@ def add_score(df, condition):
             score = score_calculator(condition, len(e), e[0]["distance"])
         else:
             score = 0
+        scores.append(score)
+    df[f"condition{condition}_score"] = pd.Series(scores)
     return df
