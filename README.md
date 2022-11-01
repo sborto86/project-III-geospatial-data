@@ -270,10 +270,27 @@ The 3 offices with higher score are located in New York and belong to the compan
 
 ![List of offices](./img/final.png)
 
-<iframe src="./img/ipharro-media.html" width=100%></iframe>
+### iPharro Media
+
+![iPharro Media](./img/location1.png)
+
+[Click here to view interactive map for iPharro Media](https://rawcdn.githack.com/sborto86/project-III-geospatial-data/452c8832e8e7f576531af2a7d290498d22fd26e8/img/ipharro-media.html)
+
+### Digital Railroad
+
+![Digital Railroad](./img/location2.png)
+
+[Click here to view interactive map for Digital Railroad](https://rawcdn.githack.com/sborto86/project-III-geospatial-data/452c8832e8e7f576531af2a7d290498d22fd26e8/img/Digital%20Railroad.html)
+
+### Struq
+
+![Struq](./img/location3.png)
+
+[Click here to view interactive map for Struq](https://rawcdn.githack.com/sborto86/project-III-geospatial-data/452c8832e8e7f576531af2a7d290498d22fd26e8/img/Struq.html)
 
 ## Future Improvements:
 - Improve efficieny of the code.
+- Improve visualization of the offices.
 - Make easier to modify the parameters of the search.
-- Update the company database.
+- Update the company database (last version in Crunchbase).
 - Use a better API than Foursquare to find locations
