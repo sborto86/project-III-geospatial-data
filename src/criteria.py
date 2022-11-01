@@ -24,7 +24,8 @@ conditions = {
                 "description": "Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.",
                 "source": "Crunchbase",
                 "categories": ["tags_list","description","name"],
-                "query": "design"
+                "query": "design",
+                "tag": "Design Company"
             },
     
             2: {
@@ -34,7 +35,8 @@ conditions = {
                 "description": "30% of the company staff have at least 1 child.",
                 "source": "Foursquare",
                 "categories": [12055, 12056, 12057, 12058, 12059, 12060, 12061, 12062],
-                "query": None
+                "query": None,
+                "tag": "Education Center"
              },
 
             3: {
@@ -44,7 +46,8 @@ conditions = {
                 "description": "Developers like to be near successful tech startups that have raised at least 1 Million dollars.",
                 "source": "Crunchbase",
                 "categories": "total_money_raised",
-                "query": "More than 1,000,000"
+                "query": "More than 1,000,000",
+                "tag": "Succesful Start-up"
               },
             4: {
                 "max_num": 1,
@@ -53,7 +56,8 @@ conditions = {
                 "description": "Executives like Starbucks A LOT. Ensure there's a starbucks not too far.",
                 "source": "Foursquare",
                 "categories":[13032],
-                "query": "Starbucks"
+                "query": "Starbucks",
+                "tag": "Starbucks"
                   
               },
             5: {
@@ -63,7 +67,8 @@ conditions = {
                 "description": "Account managers need to travel a lot.",
                 "source": "OurAirports",
                 "categories": None,
-                "query": None
+                "query": None,
+                "tag": "Airport"
               },
 
               6: {
@@ -73,7 +78,8 @@ conditions = {
                 "description": "Everyone in the company is between 25 and 40, give them some place to go party.",
                 "source": "Foursquare",
                 "categories":[13003, 10032],
-                "query": None
+                "query": None,
+                "tag": "Bars or Night Club"
               },
 
               7: {
@@ -83,7 +89,8 @@ conditions = {
                 "description":"The CEO is vegan.",
                 "source": "Foursquare",
                 "categories":[13377],
-                "query": None
+                "query": None,
+                "tag": "Vegan Restaurant"
               },
 
               8: {
@@ -93,7 +100,8 @@ conditions = {
                 "description": "If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.",
                 "source": "Foursquare",
                 "categories":[18008],
-                "query": None
+                "query": None,
+                "tag":"Basketball Court"
               },
               9: {
                   "max_num": 1,
@@ -102,7 +110,8 @@ conditions = {
                   "description": "The office dog Dobby needs a hairdresser every month. Ensure there's one not too far away.",
                   "source": "Foursquare",
                   "categories":[11134],
-                  "query": None
+                  "query": None,
+                  "tag":"Pet Grooming"
               },
 }
 

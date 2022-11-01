@@ -132,3 +132,4 @@ dmypy.json
 #data
 
 *airports_raw.csv
+*offices_score.csv

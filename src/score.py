@@ -52,7 +52,8 @@ def add_score(df, condition):
         for index, row in df.iterrows():
             location=(row["latitude"], row["longitude"])
             places = foursquare(location, condition, sort="DISTANCE")
-
+            new_col.append(places)
+        df[f"condition{condition}_results"] = pd.Series(new_col)
     elif cr["source"] == "OurAirports":
         try:
             df_com = pd.read_csv('./data/airports.csv')
@@ -86,4 +87,20 @@ def add_score(df, condition):
             score = 0
         scores.append(score)
     df[f"condition{condition}_score"] = pd.Series(scores)
+    return df
+
+def total_score(df):
+    '''
+    Creates or modifies the column total_score for a given DataFrame and sorts for this column
+    '''
+    columns = []
+    for c in range(1,len(conditions)+1):
+        if f"condition{c}_score" in df.columns:
+            columns.append(c)
+    sum = ""
+    for c in columns:
+        sum += f"df['condition{c}_score']+"
+    sum = sum[:-1]
+    df["total_score"] = eval(sum)
+    df.sort_values(by=["total_score"], inplace = True, ascending=False)
     return df
